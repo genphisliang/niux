@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      "niux@1.0.0",
+      "/Users/wenjing.liang/test/packing-typescript"
+    ]
+  ],
+  "_cnpm_publish_time": 1573007334922,
+  "_from": "niux@1.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "niux@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/niux",
+  "_nodeVersion": "8.11.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/niux_1.0.0_1573007334756_0.2933582949370268"
+  },
+  "_npmUser": {
+    "email": "583237152@qq.com",
+    "name": "583237152_genphis"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "niux",
+    "raw": "niux@1.0.0",
+    "rawSpec": "1.0.0",
+    "scope": null,
+    "spec": "1.0.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://repo.corp.qunar.com/artifactory/api/npm/npm-qunar/niux/download/niux-1.0.0.tgz",
+  "_shasum": "766191084fb92468b8cae838aced2037cdb1bd98",
+  "_shrinkwrap": null,
+  "_spec": "niux@1.0.0",
+  "_where": "/Users/wenjing.liang/test/packing-typescript",
+  "author": {
+    "name": "583237152_genphis"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "lodash.clonedeep": "^4.5.0"
+  },
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "766191084fb92468b8cae838aced2037cdb1bd98",
+    "tarball": "https://repo.corp.qunar.com/artifactory/api/npm/npm-qunar/niux/download/niux-1.0.0.tgz"
+  },
+  "keywords": [
+    "niux"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "583237152@qq.com",
+      "name": "583237152_genphis"
+    }
+  ],
+  "name": "niux",
+  "optionalDependencies": {},
+  "publish_time": 1573007334922,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git@git.lug.ustc.edu.cn:583237152/niux.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
