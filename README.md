@@ -5,7 +5,7 @@
 ##创建store实例，每个store实例之间数据是完全隔离的
 ```
 
-import { CreateStore } from './niux';
+import { CreateStore, fire, watch } from './niux';
 
 export default CreateStore({
   state: {
@@ -84,4 +84,16 @@ store.releaseObserve('param1');
 ```
 import store from './store';
 store.modifyPassword('123456');
+```
+
+## watch一个事件
+```
+watch('getName', (data) => {
+  console.log(data);
+});
+```
+
+## fire一个事件
+```
+fire('getName', { name: '124' });
 ```
